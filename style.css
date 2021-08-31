@@ -1,0 +1,32 @@
+h1{
+    color:mediumvioletred;
+    font-family:Palatino Linotype;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    font-size:50px;
+    border-radius: 30px;
+}
+body{
+    background-color:#ddd;
+}
+p{
+    font-size: 40px;
+    padding-left: 430px;
+    color: red;
+   
+}
+button{
+    font-size:large;
+    color:black ;
+    background-color:cyan;
+    border-radius: 15px;
+  
+    
+}
+
+.fa{
+    padding-top: 150px;
+    padding-left: 500px;
+    color:darkorange;
+}
